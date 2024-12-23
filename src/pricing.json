@@ -1,0 +1,21 @@
+[
+    {
+        "pric":"$39/month",
+        "head":"Jumpstart Plan",
+        "p":"Perfect for get started on their nutrition journey",
+        "list":["Online Consultation","Daily meal tracking"," Weekly meal tracking"," Strategy to more healthy","Weight Assessment"]
+
+    },
+    {
+        "pric":"$59/month",
+        "head":"Transform Plan",
+        "p":"Perfect for achieve their health and wellness goals",
+        "list":["​Online Consultation","Daily meal tracking","Weekly meal tracking","Strategy to more healthy","Weight Assessment"]
+    },
+    {
+        "pric":"$149/month",
+        "head":"Daily Plan",
+        "p":"Duis aute irure dolor in reprehenderit in voluptate velit",
+        "list":[" Strategy to more healthy"," Weekly meal tracking","Daily meal tracking","Online Consultation","Strategy to more healthy","Weekly meal tracking"]
+    }
+]
