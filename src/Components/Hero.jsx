@@ -4,19 +4,19 @@ const Hero = () => {
   return (
     <div>
       <div className='flex p-8 gap-4 items-center'>
-        <div className='bg-lime-900 h-screen w-[300px]'>
+        <div className=' bg-lime-900 h-screen w-[300px]'>
             <img className='rounded-full object-cover w-48 h-48 p-4' src={img} alt="image" />
             <h1 className='text-center p-4 text-2xl font-bold'>Say hello</h1>
             <p className='text-center'>Lorem ipsum dolor sit amet, consectetur adipiscing elit, 
                 sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
         </div>
         <div className='h-screen '>
-            <form className='space-y-3 grid grid-cols-2 gap-5 items-center '>
+            <form className='gap-5 space-y-3 grid grid-cols-2 sm:gap-5 items-center '>
                 <div>
                 <label className='text-sm'>first name</label><br />
                 <input className='outline-none border-b-2 border-b-lime-700 text-sm' type="text"placeholder='enter your firstName' /><br />
                 </div>
-                <div>
+                <div className='pb-2'>
                 <label  className='text-sm' >last name</label><br></br>
                 <input className='outline-none border-b-2 border-b-lime-700  text-sm' type="text"placeholder='enter your last name' /> <br />
                 </div>
